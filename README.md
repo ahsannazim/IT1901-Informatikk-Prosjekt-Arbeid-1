@@ -1,2 +1,2 @@
-# IT1901-Informatikk-Prosjekt-Arbeid-1
+# IT1901-Informatikk-Prosjektarbeid-1
 Informatikk Prosjekt Høst 2017
